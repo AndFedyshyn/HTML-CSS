@@ -1,0 +1,27 @@
+h1 {
+  background-color: brown;
+}
+p {
+  background-color: lightgreen;
+  margin-top: 10px;
+  padding: 10px;
+  border: 10px solid red;
+  box-sizing: border-box;
+  width: 500px;
+}
+.abc {
+  color: red;
+}
+
+#eee {
+  color: lawngreen;
+}
+ul {
+  width: 500px;
+  background-color: rgb(172, 151, 199);
+}
+ol {
+  width: 500px;
+  background-color: seagreen;
+  font-weight: bolder;
+}
